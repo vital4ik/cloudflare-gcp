@@ -1,141 +1,136 @@
 [
   {
-    "Name": "Action",
+    "name": "Action",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientASN",
+    "name": "ClientASN",
     "type": "INTEGER",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientASNDescription",
+    "name": "ClientASNDescription",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientCountry",
+    "name": "ClientCountry",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientIP",
+    "name": "ClientIP",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientIPClass",
+    "name": "ClientIPClass",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRefererHost",
+    "name": "ClientRefererHost",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRefererPath",
+    "name": "ClientRefererPath",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRefererQuery",
+    "name": "ClientRefererQuery",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRefererScheme",
+    "name": "ClientRefererScheme",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestHost",
+    "name": "ClientRequestHost",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestMethod",
+    "name": "ClientRequestMethod",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestPath",
+    "name": "ClientRequestPath",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestProtocol",
+    "name": "ClientRequestProtocol",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestQuery",
+    "name": "ClientRequestQuery",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestScheme",
+    "name": "ClientRequestScheme",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "ClientRequestUserAgent",
+    "name": "ClientRequestUserAgent",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "Datetime",
+    "name": "Datetime",
     "type": "TIMESTAMP",
     "mode": "NULLABLE"
   },
   {
-    "Name": "EdgeColoCode",
+    "name": "EdgeColoCode",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "EdgeResponseStatus",
+    "name": "EdgeResponseStatus",
     "type": "INTEGER",
     "mode": "NULLABLE"
   },
   {
-    "Name": "Kind",
+    "name": "Kind",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "MatchIndex",
+    "name": "MatchIndex",
     "type": "INTEGER",
     "mode": "NULLABLE"
   },
   {
-    "Name": "Metadata",
-    "type": "STRUCT",
-    "mode": "NULLABLE"
-  },
-  {
-    "Name": "OriginResponseStatus",
+    "name": "OriginResponseStatus",
     "type": "INTEGER",
     "mode": "NULLABLE"
   },
   {
-    "Name": "OriginatorRayID",
+    "name": "OriginatorRayID",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "RayID",
+    "name": "RayID",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "RuleID",
+    "name": "RuleID",
     "type": "STRING",
     "mode": "NULLABLE"
   },
   {
-    "Name": "Source",
+    "name": "Source",
     "type": "STRING",
     "mode": "NULLABLE"
   }
